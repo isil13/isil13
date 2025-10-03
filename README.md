@@ -19,7 +19,6 @@
 | **Yazılım Geliştirme** | Python (veri odaklı projeler) ve C# ile sağlam ve ölçeklenebilir uygulamalar geliştirme. |
 | **Veri Bilimi & ML** | Veri analizi, istatistiksel modelleme ve **Makine Öğrenimi (ML)** algoritmaları üzerine pratik yapma. |
 | **Veritabanı (SQL)** | İlişkisel veritabanı tasarımı ve karmaşık **SQL** sorgulama becerilerini geliştirme. |
-| **İş Zekası (BI)** | Veri görselleştirme ve raporlama araçlarını (Örn: Power BI) kullanarak iş verilerinden anlamlı sonuçlar çıkarma. |
 | **Yapay Zeka (AI)** | Derin öğrenme ve **Doğal Dil İşleme (NLP)** konularına odaklanarak AI uygulamaları geliştirme. |
 
 ---
