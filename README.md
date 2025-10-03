@@ -33,13 +33,6 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim (Opsiyonel Görsellik)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true" alt="GitHub İstatistiklerim" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true" alt="En Çok Kullandığım Diller" />
-</p>
-
 ---
 
 ## 📧 Bana Ulaşın
