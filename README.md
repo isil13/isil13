@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+##  Kullandığım Teknolojiler
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📧 Bana Ulaşın
+##  Bana Ulaşın
 
-* 🔗 **LinkedIn:** [Işıl Altınok](https://www.linkedin.com/in/i%C5%9F%C4%B1l-alt%C4%B1nok-2b9569286)
-* ✉️ **E-posta:** [isilaltinok@ogr.bandirma.edu.tr](mailto:isilaltinok@ogr.bandirma.edu.tr)
+*  **LinkedIn:** [Işıl Altınok](https://www.linkedin.com/in/i%C5%9F%C4%B1l-alt%C4%B1nok-2b9569286)
+*  **E-posta:** [isilaltinok@ogr.bandirma.edu.tr](mailto:isilaltinok@ogr.bandirma.edu.tr)
