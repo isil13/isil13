@@ -1,23 +1,23 @@
 # Merhaba, ben Işıl! ✨
 
-**Yönetim Bilişim Sistemleri (YBS) öğrencisi ve geleceğin teknoloji lideri adayı.** 💡
+**Yönetim Bilişim Sistemleri (YBS) öğrencisi ve geleceğin teknoloji lideri adayı.** 
 
 ---
 
-## 🚀 Hakkımda Kısaca
+##  Hakkımda Kısaca
 
-* 🎓 Balıkesir Bandırma On Yedi Eylül Üniversitesi'nde **Yönetim Bilişim Sistemleri** öğrencisiyim.
-* 🧠 **Yapay zeka, veri bilimi ve yazılım geliştirme** alanlarına derin bir ilgi duyuyorum.
-* 🎯 Kariyer hedefim: **Yazılım Geliştirme** ve **Veri Bilimi** alanlarında uzmanlaşmak ve iş süreçlerini teknoloji ile verimli bir şekilde optimize etme yeteneğimi kullanmak.
+*  Balıkesir Bandırma Onyedi Eylül Üniversitesi'nde **Yönetim Bilişim Sistemleri** öğrencisiyim.
+*  **Yapay zeka, veri bilimi ve yazılım geliştirme** alanlarına derin bir ilgi duyuyorum.
+*  Kariyer hedefim: **Yazılım Geliştirme** ve **Veri Bilimi** alanlarında uzmanlaşmak ve iş süreçlerini teknoloji ile verimli bir şekilde optimize etme yeteneğimi kullanmak.
 
 ---
 
-## 🔭 Şu an Odak Noktam (YBS Mimarisi)
+##  Şu an Odak Noktam (YBS Mimarisi)
 
 | Alan | Amaç ve Teknolojiler |
 | :--- | :--- |
 | **Yazılım Geliştirme** | Python (veri odaklı projeler) ve C# ile sağlam ve ölçeklenebilir uygulamalar geliştirme. |
-| **Veri Bilimi & ML** | Veri analizi, istatistiksel modelleme ve **Makine Öğrenimi (ML)** algoritmaları üzerine pratik yapma. |
+| **Veri Bilimi & ML** | Veri analizi, istatistiksel modelleme ve **Makine Öğrenimi** algoritmaları üzerine pratik yapma. |
 | **Veritabanı (SQL)** | İlişkisel veritabanı tasarımı ve karmaşık **SQL** sorgulama becerilerini geliştirme. |
 | **Yapay Zeka (AI)** | Derin öğrenme ve **Doğal Dil İşleme (NLP)** konularına odaklanarak AI uygulamaları geliştirme. |
 
